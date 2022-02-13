@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT-CQRS", "JWT-CQRS\JWT-CQRS.csproj", "{ADDB8BF2-30B4-4827-909D-9F777C5C6E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADDB8BF2-30B4-4827-909D-9F777C5C6E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDB8BF2-30B4-4827-909D-9F777C5C6E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDB8BF2-30B4-4827-909D-9F777C5C6E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDB8BF2-30B4-4827-909D-9F777C5C6E08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4155DF52-2DD6-4B14-A9FA-47D6EBAA0CF3}
+	EndGlobalSection
+EndGlobal
